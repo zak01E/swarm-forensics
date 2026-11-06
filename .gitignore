@@ -1,0 +1,4 @@
+*.jsonl.gz
+__pycache__/
+out/*.log
+.claude/

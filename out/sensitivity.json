@@ -1,0 +1,118 @@
+{
+ "threshold_sweep": [
+  {
+   "threshold": 0.4,
+   "families": 14843,
+   "largest_family": 72262,
+   "docs_in_groups_of_2plus": 118066,
+   "same_secret_share": [
+    0.06568,
+    0.06354181600086765,
+    0.06788491822028868
+   ],
+   "cross_secret_share": [
+    0.00462,
+    0.0040624532242068394,
+    0.0052536629999514264
+   ],
+   "lift": 14.216450216450218
+  },
+  {
+   "threshold": 0.5,
+   "families": 18793,
+   "largest_family": 61737,
+   "docs_in_groups_of_2plus": 115264,
+   "same_secret_share": [
+    0.08838,
+    0.08592349133233684,
+    0.09089975498400218
+   ],
+   "cross_secret_share": [
+    0.00584,
+    0.005209020812223358,
+    0.006546907956257503
+   ],
+   "lift": 15.133561643835618
+  },
+  {
+   "threshold": 0.6,
+   "families": 24672,
+   "largest_family": 16348,
+   "docs_in_groups_of_2plus": 110807,
+   "same_secret_share": [
+    0.15392,
+    0.15078341479106902,
+    0.15710976116043632
+   ],
+   "cross_secret_share": [
+    0.00538,
+    0.004775703299522512,
+    0.006060296148967864
+   ],
+   "lift": 28.60966542750929
+  },
+  {
+   "threshold": 0.7,
+   "families": 30570,
+   "largest_family": 9439,
+   "docs_in_groups_of_2plus": 105924,
+   "same_secret_share": [
+    0.20592,
+    0.20239817771690868,
+    0.2094870083204777
+   ],
+   "cross_secret_share": [
+    0.00606,
+    0.005416636371344291,
+    0.00677925859365376
+   ],
+   "lift": 33.980198019801975
+  },
+  {
+   "threshold": 0.8,
+   "families": 38050,
+   "largest_family": 6382,
+   "docs_in_groups_of_2plus": 99154,
+   "same_secret_share": [
+    0.27258,
+    0.2686944736014734,
+    0.2765004699806212
+   ],
+   "cross_secret_share": [
+    0.00642,
+    0.005756852807888175,
+    0.0071589868423198215
+   ],
+   "lift": 42.45794392523364
+  },
+  {
+   "threshold": 0.9,
+   "families": 45019,
+   "largest_family": 6380,
+   "docs_in_groups_of_2plus": 91776,
+   "same_secret_share": [
+    0.3096,
+    0.30556226710252526,
+    0.3136669882753255
+   ],
+   "cross_secret_share": [
+    0.0056,
+    0.004982803783416794,
+    0.0062931618615907695
+   ],
+   "lift": 55.285714285714285
+  }
+ ],
+ "staged_loaders": {
+  "docs": 28054,
+  "share_of_docs": 0.21839724726361187,
+  "distinct_shortener_urls": 18507,
+  "distinct_shortener_codes": 45529,
+  "shortener_codes_seen_in_2plus_docs": 12588,
+  "kinds": {
+   "payload": 26219,
+   "response": 685,
+   "recovered_text": 1150
+  }
+ }
+}
